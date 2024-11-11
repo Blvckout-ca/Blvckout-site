@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>blvckout</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>blvckout</h1>
+        <p>Speed and style in every ride</p>
+    </header>
+
+    <section class="about">
+        <h2>About Us</h2>
+        <p>blvckout is your go-to brand for premium motorcycle clothing, blending speed, style, and a passion for the road.</p>
+    </section>
+
+    <section class="products">
+        <h2>Featured Products</h2>
+        <div class="product">
+            <h3>Blackout Hoodie</h3>
+            <p>Classic black hoodie with our iconic logo and desert scene. Perfect for riders.</p>
+        </div>
+        <div class="product">
+            <h3>Blvckout Helmet</h3>
+            <p>Riding with style and safety. Sleek black finish with modern design.</p>
+        </div>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 blvckout. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
